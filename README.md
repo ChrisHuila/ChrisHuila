@@ -7,7 +7,7 @@ I am passionate about technology; I am looking for a company from which to learn
 I am a curious person and I like to solve problems. Learning is part of my day to day and challenges motivate me to find the best solutions.
 I like to work in a team, talk with other people, share my knowledge, exercise outdoors, reading books, researching about technology.
 
-💙 <strong>Contacto</strong>  
+💙 <strong>Contact</strong>  
 <a href="https://www.linkedin.com/in/christian-camilo-huila-garces/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 

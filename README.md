@@ -1,5 +1,5 @@
-###  👋 Welcome, I´m Christian Huila
-  #### Front-End Developer
+###  👋 Welcome, I´m Christian Huila Garcés
+  #### Full-Stack Developer
 ------------
 
 > 

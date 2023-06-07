@@ -3,12 +3,19 @@
 ------------
 
 > 
-I am passionate about technology; I am looking for a company from which to learn and use my knowledge.
-I am a curious person and I like to solve problems. Learning is part of my day to day and challenges motivate me to find the best solutions.
-I like to work in a team, talk with other people, share my knowledge, exercise outdoors, reading books, researching about technology.
-
+<p> 
+I have a strong passion for technology and I am actively seeking a company where I can not only enhance my knowledge but also apply it effectively.
+</p> 
+<p> 
+As a naturally curious individual, I thoroughly enjoy problem-solving and continuously strive to learn and grow.<br> 
+Challenges serve as an immense source of motivation for me, driving me to discover optimal solutions.<br>
+Collaborating within a team setting, engaging in meaningful discussions, sharing my expertise, and pursuing outdoor activities all contribute to my well-rounded approach.
+</p> 
+<p> 
+Additionally, I find great pleasure in reading books and conducting research on various technological advancements.
+</p> 
 💙 <strong>Contact</strong>  
-<a href="https://www.linkedin.com/in/christian-camilo-huila-garces/" target="_blank">
+<a href="https://www.linkedin.com/in/christian-camilo-huila-garces/" target="_blank"> <br>
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <!--

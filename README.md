@@ -14,10 +14,14 @@ Collaborating within a team setting, engaging in meaningful discussions, sharing
 <p> 
 Additionally, I find great pleasure in reading books and conducting research on various technological advancements.
 </p> 
+
 💙 <strong>Contact</strong>  
 <a href="https://www.linkedin.com/in/christian-camilo-huila-garces/" target="_blank"> <br>
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+------------
 
+> 
+<img src="https://komarev.com/ghpvc/?username=ChrisHuila&style=for-the-badge">
 <!--
 **ChrisHuila/ChrisHuila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
